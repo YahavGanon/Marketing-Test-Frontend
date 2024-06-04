@@ -1,0 +1,24 @@
+/*SASS - SET-UP*/
+
+@import 'setup/variables';
+@import 'setup/mixins';
+@import 'setup/functions';
+@import 'setup/_variables';
+@import 'setup/mixins';
+@import 'setup/functions';
+@import'setup/typography';
+
+// BASICS
+// @import 'base/layout';
+// @import 'base/base';
+@import 'base/base';
+
+/*SASS - cmp*/
+@import 'cmps/HomePage';
+@import 'cmps/AppHeader';
+@import 'cmps/AdminPage';
+
+
+
+
+

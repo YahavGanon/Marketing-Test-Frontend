@@ -1,0 +1,34 @@
+// COLOR PALETTE
+
+$clr0: #fff;
+$clr1: #dbca2d;
+$clr2: #29e57e;
+$clr3: #00e9ff;
+$clr4: #00d4ff;
+$clr5: #ffa3ff;
+$clr6: #af70af;
+$clr7: #005bab;
+$clr8: #007bff;
+$clr9: #ff0000;
+$clr10: #991f1f;
+$clr11: #f7f7f7;
+$clr12: #555555;
+$clr13: #000000;
+$clr14: #f9f9f9;
+$clr15: #f88484;
+
+// LAYOUT
+$layoutPadding: 20px;
+
+// LAYOUT BREAKPOINTS
+$break-mobile: 700px;
+$break-narrow: 700px;
+$break-normal: 1000px;
+$break-wide: 1360px;
+$break-X-wide: 1600px;
+
+$padded-break-narrow: $break-mobile + $layoutPadding * 2;
+$padded-break-narrow: $break-narrow + $layoutPadding * 2;
+$padded-break-normal: $break-normal + $layoutPadding * 2;
+$padded-break-wide: $break-wide + $layoutPadding * 2;
+$padded-break-X-wide: $break-wide + $layoutPadding * 2;
